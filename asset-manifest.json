@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/indecision/static/css/main.2ad70a42.chunk.css",
+    "main.js": "/indecision/static/js/main.27795700.chunk.js",
+    "main.js.map": "/indecision/static/js/main.27795700.chunk.js.map",
+    "runtime~main.js": "/indecision/static/js/runtime~main.401c7c33.js",
+    "runtime~main.js.map": "/indecision/static/js/runtime~main.401c7c33.js.map",
+    "static/css/2.764ccc25.chunk.css": "/indecision/static/css/2.764ccc25.chunk.css",
+    "static/js/2.36cf1d7f.chunk.js": "/indecision/static/js/2.36cf1d7f.chunk.js",
+    "static/js/2.36cf1d7f.chunk.js.map": "/indecision/static/js/2.36cf1d7f.chunk.js.map",
+    "index.html": "/indecision/index.html",
+    "precache-manifest.e5d8cbfab23e176de9302f4723b7d983.js": "/indecision/precache-manifest.e5d8cbfab23e176de9302f4723b7d983.js",
+    "service-worker.js": "/indecision/service-worker.js",
+    "static/css/2.764ccc25.chunk.css.map": "/indecision/static/css/2.764ccc25.chunk.css.map",
+    "static/css/main.2ad70a42.chunk.css.map": "/indecision/static/css/main.2ad70a42.chunk.css.map"
+  }
+}
