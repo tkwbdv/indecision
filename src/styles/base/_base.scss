@@ -1,0 +1,19 @@
+html {
+  font-size: 62.5%; // 16px is detault. 16 * 0.625 = 10px -> can use rem with a base10 system
+}
+
+body {
+  background: $dark-blue;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: $m-size;
+}
+
+button {
+  cursor: pointer;
+  outline: none;
+}
+
+button:disabled {
+  cursor: default;
+  opacity: 0.5;
+}
